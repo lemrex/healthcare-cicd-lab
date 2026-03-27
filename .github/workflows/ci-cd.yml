@@ -10,7 +10,7 @@ env:
   IMAGE_NAME: meditrack-api
   K8S_NAMESPACE: meditrack
   EKS_CLUSTER: migration-eks-cluster
-  AWS_REGION: us-east-1
+  AWS_REGION: us-east-11
 
 jobs:
   test:
